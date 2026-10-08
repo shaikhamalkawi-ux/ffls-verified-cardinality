@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived Zenodo reproducibility record and the IEEE Access article once its final DOI is assigned."
+title: "Verified Cardinality of Fully Fuzzy Linear Systems: A Certified Diagnostic Framework for Finite and Underdetermined Engineering Benchmarks"
+type: software
+authors:
+  - family-names: "Malkawi"
+    given-names: "Ghassan"
+    orcid: "https://orcid.org/0000-0002-5320-7561"
+  - family-names: "Elsayed"
+    given-names: "Ahmed Abdelaziz"
+    orcid: "https://orcid.org/0000-0002-9255-200X"
+  - family-names: "Kamalov"
+    given-names: "Firuz"
+    orcid: "https://orcid.org/0000-0003-3946-0920"
+  - family-names: "Hussein"
+    given-names: "Bakeel"
+  - family-names: "Adnan"
+    given-names: "Eyad"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22166445"
+    description: "Frozen archival reproducibility record"
+repository-code: "https://github.com/shaikhamalkawi-ux/ffls-verified-cardinality"
+url: "https://doi.org/10.5281/zenodo.22166445"
+version: "V5R7"
+date-released: "2026-08-29"
